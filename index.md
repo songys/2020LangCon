@@ -15,7 +15,7 @@ layout: home
 
 #  2020/2/15(토)                             
                        
-![table2](./pic/sche.png)        
+![table2](./pic/table.png)        
 (담당: 이름)                     
 
 # 찾아 오시는 길           
@@ -48,10 +48,5 @@ layout: home
 [위키북스](http://wikibook.co.kr/)                             
 ![위키북스](./pic/wiki.png)                         
                                         
-
-
-
-
-
 
 

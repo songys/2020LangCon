@@ -23,8 +23,7 @@ permalink: /about/
 
 
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
-|송영숙![1](./pic/song.jpg)|송치성![2](./pic/chisung.jpg)|한수미![3](./pic/sumi.jpg)|
-|이재석![4](./pic/jslee.jpg)
+|송영숙![1](/Users/song-yeongsug/workspace/2020LangCon/pic/song.jpg)|송치성![2](/Users/song-yeongsug/workspace/2020LangCon/pic/chisung.jpg)|한수미![3](/Users/song-yeongsug/workspace/2020LangCon/pic/sumi.jpg)|이재석![4](/Users/song-yeongsug/workspace/2020LangCon/pic/jslee.jpg)
 
 
 
