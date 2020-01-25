@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![사진](./pic/logos.png)
+![사진](./pic/logo2.png)
 
 <!--
 "제목"을 클릭하시면 발표 자료를 보실 수 있습니다.
