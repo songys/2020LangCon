@@ -15,8 +15,7 @@ layout: home
 
 #  2020/2/15(토)                             
                        
-![table2](./pic/table.png)        
-(담당: 이름)                     
+![table2](./pic/table.png)                            
 
 # 찾아 오시는 길           
 [서울특별시 종로구 중학동 19 더케이트윈타워 A동](http://naver.me/IMlGLw7y) 11층                            
