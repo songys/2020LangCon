@@ -15,7 +15,7 @@ layout: home
 
 #  2020/2/15(토)                             
                        
-![table2](./pic/table.png)                            
+![table2](./pic/schedule.png)                            
 
 # 찾아 오시는 길           
 [서울특별시 종로구 중학동 19 더케이트윈타워 A동](http://naver.me/IMlGLw7y) 11층                            
@@ -28,7 +28,7 @@ layout: home
  [Langcon2019](https://songys.github.io/2019LangCon/)                 
 
 [봇봇봇](https://www.onoffmix.com/event/89407)          
-[Langcon2019](https://songys.github.io/2019LangCon//)
+[Langcon2019](https://songys.github.io/2019LangCon/)
 
 # [오늘 행사에 대한 의견을 들려 주세요!]() 
 ![qrcode](./pic/q.png)
