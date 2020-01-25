@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "자주 하는 질문"
-date:   2019-01-05 13:22:41 +0900
+date:   2020-02-15 10:00:00 +0900
 categories: jekyll update
 ---
  
