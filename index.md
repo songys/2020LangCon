@@ -8,7 +8,7 @@ layout: home
                   
 
 <img src="./pic/s.png" width="80"><BR>
-<img src="./pic/poster.png" width="500"><BR>
+<img src="./pic/poster2020.png" width="500"><BR>
 
 
       
@@ -24,8 +24,7 @@ layout: home
 # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   
 [사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)            
- >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)  
- [Langcon2019](https://songys.github.io/2019LangCon/)                 
+ >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
 
 [봇봇봇](https://www.onoffmix.com/event/89407)          
 [Langcon2019](https://songys.github.io/2019LangCon/)
