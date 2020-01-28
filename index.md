@@ -8,7 +8,7 @@ layout: home
                   
 
 <img src="./pic/s.png" width="70"><BR>
-<img src="./pic/poster2020.png" width="700"><BR>
+<img src="./pic/poster2020.png" width="750"><BR>
 
 
       
