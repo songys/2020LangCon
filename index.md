@@ -13,7 +13,7 @@ layout: home
 
       
 
-#  2020/2/15(토)                             
+                            
                        
 ![table](./pic/schdule.png)                            
 
