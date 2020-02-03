@@ -8,6 +8,9 @@ layout: home
                   
 
 <img src="./pic/s.png" width="70"><BR>
+
+## ⚠️신종 코로나 바이러스로 인해 행사를 4월 경으로 잠정 연기합니다. 추후 일정 확정되는대로 업데이트하겠습니다. 감사합니다.
+
 <img src="./pic/poster2020.png" width="720"><BR>
 
 
